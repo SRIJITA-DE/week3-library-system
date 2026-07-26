@@ -1,0 +1,2 @@
+MEM001,John Doe,john@email.com,9876543210,
+MEM002,Jane Smith,jane@email.com,9876543211,
